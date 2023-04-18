@@ -1,5 +1,8 @@
 # LifeCycle
 
+
+![Angular-lifecycle](https://user-images.githubusercontent.com/112107085/232912863-c62b7ad3-d135-4004-be94-3ecf37c842ea.png)
+
 	//checked -> contet -> view
 
 	//quando o primeiro conteudo é iniciado
